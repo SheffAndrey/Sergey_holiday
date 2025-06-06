@@ -1,0 +1,2 @@
+:: Version 1.0.0 (May 15, 2022)
+- Initial Release
